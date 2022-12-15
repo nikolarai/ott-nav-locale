@@ -1,43 +1,43 @@
 <resources>
-    <string name="press_back_once_more_to_exit">Pritisnite još jednom za izlaz</string>
+    <string name="press_back_once_more_to_exit">Притисните још једном за излаз</string>
 
-    <string name="search_bar">Tražite po kanalima ili programima</string>
+    <string name="search_bar">Тражите по каналима или програмима</string>
 
-    <string name="menu_search">Video pretraga</string>
-    <string name="menu_live">Uživo prenos</string>
-    <string name="menu_archive">Prikaži arhivu</string>
-    <string name="menu_settings">Podešavanja</string>
-    <string name="menu_error_require_provider_button">Konfiguriši provajdera</string>
-    <string name="menu_error_require_live_but_no_playlist_title">Plejlista sa kanalima nije uspešno učitana</string>
-    <string name="menu_error_require_live_but_no_playlist_text">Nije moguće doći do konfigurisanog provajdera ili plejliste. Ponovo proverite podešavanja provajdera i ako vam se čine OK, obratite se svom IPTV provajderu.</string>
+    <string name="menu_search">Видео претрага</string>
+    <string name="menu_live">Уживо пренос</string>
+    <string name="menu_archive">Прикажи архиву</string>
+    <string name="menu_settings">Подешавања</string>
+    <string name="menu_error_require_provider_button">Конфигуриши добављача</string>
+    <string name="menu_error_require_live_but_no_playlist_title">Листа канала није успјешно учитана</string>
+    <string name="menu_error_require_live_but_no_playlist_text">Није могуће доћи до конфигурисаног провајдера или плејлисте. Поново провјерите подешавања провајдера и ако вам се чине ОК, обратите се свом ИПТВ провајдеру.</string>
 
-    <string name="browse_description_series_number">epizoda</string>
-    <string name="browse_description_header_live">Uživo kanali</string>
+    <string name="browse_description_series_number">епизода</string>
+    <string name="browse_description_header_live">Уживо канали</string>
 
-    <string name="category_movies">Svi filmovi</string>
-    <string name="category_tv_series">Sve TV serije</string>
-    <string name="category_tv_shows">Sve TV emisije</string>
-    <string name="category_fav_channels">Omiljeni kanali</string>
-    <string name="category_by_categories">Filtriraj po kategorijama</string>
-    <string name="category_by_years">Filtriraj po datumu izdavanja</string>
-    <string name="category_by_age">Filtriraj prema uzrastu</string>
-    <string name="category_by_country">Filtriraj prema državi</string>
-    <string name="category_by_unsorted">Sve</string>
-    <string name="category_by_favorite">Omiljen</string>
-    <string name="category_desc_movies">automatski filter od svih kanala</string>
-    <string name="category_desc_tv_series">automatski filter od svih kanala</string>
-    <string name="category_desc_tv_shows">automatski filter od svih kanala</string>
-    <string name="category_desc_exact_tv_shows">TV emisija</string>
-    <string name="category_desc_tv_channel">TV kanal</string>
-    <string name="category_desc_from_fav">samo sadržaj sa omiljenih kanala</string>
+    <string name="category_movies">Сви филмови</string>
+    <string name="category_tv_series">Све ТВ серије</string>
+    <string name="category_tv_shows">Све ТВ емисије</string>
+    <string name="category_fav_channels">Омиљени канали</string>
+    <string name="category_by_categories">Филтрирај по категоријама</string>
+    <string name="category_by_years">Филтрирај по датуму издавања</string>
+    <string name="category_by_age">Филтрирај према узрасту</string>
+    <string name="category_by_country">Филтрирај према држави</string>
+    <string name="category_by_unsorted">Све</string>
+    <string name="category_by_favorite">Omiljenо</string>
+    <string name="category_desc_movies">аутоматски филтер свих филмова</string>
+    <string name="category_desc_tv_series">аутоматски филтер свих серија</string>
+    <string name="category_desc_tv_shows"аутоматски филтер свих емисија</string>
+    <string name="category_desc_exact_tv_shows">ТВ емисија</string>
+    <string name="category_desc_tv_channel">ТВ канал</string>
+    <string name="category_desc_from_fav">само садржај са омиљених канала</string>
 
-    <string name="in_1_minute">za 1 minut</string>
-    <string name="in_n_minutes">za 10 minuta</string>
-    <string name="player_episode_details_season">sezona</string>
-    <string name="player_episode_details_series">epizoda</string>
-    <string name="player_warn_turn_off">Će se isključiti</string>
-    <string name="player_press_to_cancel">Pritisnite OK za izlazak</string>
-    <string name="player_touch_to_cancel">Dodirnite ekran za izlazak</string>
+    <string name="in_1_minute">за 1 минут</string>
+    <string name="in_n_minutes">за 10 минута</string>
+    <string name="player_episode_details_season">сезона</string>
+    <string name="player_episode_details_series">епизода</string>
+    <string name="player_warn_turn_off">Искључиће се</string>
+    <string name="player_press_to_cancel">Притисните ОК за излазак</string>
+    <string name="player_touch_to_cancel">Додирните за излазак</string>
     <string name="player_state_no_media_ended">Stream nije odabran (završen)</string>
     <string name="player_state_buffering">Učitavanje</string>
 
